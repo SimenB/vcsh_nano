@@ -2,11 +2,12 @@
 !/.gitignore.d
 !/.gitignore.d/nano
 !/.nano
+!/.nanorc
 !/.nano/syntax
 !/.nano/syntax/ALL.nanorc
 !/.nano/syntax/awk.nanorc
-!/.nano/syntax/c.nanorc
 !/.nano/syntax/cmake.nanorc
+!/.nano/syntax/c.nanorc
 !/.nano/syntax/coffeescript.nanorc
 !/.nano/syntax/colortest.nanorc
 !/.nano/syntax/csharp.nanorc
@@ -38,8 +39,8 @@
 !/.nano/syntax/patch.nanorc
 !/.nano/syntax/peg.nanorc
 !/.nano/syntax/php.nanorc
-!/.nano/syntax/pkg-config.nanorc
 !/.nano/syntax/pkgbuild.nanorc
+!/.nano/syntax/pkg-config.nanorc
 !/.nano/syntax/po.nanorc
 !/.nano/syntax/privoxy.nanorc
 !/.nano/syntax/properties.nanorc
@@ -57,4 +58,3 @@
 !/.nano/syntax/xresources.nanorc
 !/.nano/syntax/yaml.nanorc
 !/.nano/syntax/yum.nanorc
-!/.nanorc
