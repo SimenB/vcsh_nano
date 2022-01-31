@@ -1,8 +1,5 @@
 *
-!/.gitignore.d
 !/.gitignore.d/nano
-!/.nano
-!/.nano/syntax
 !/.nano/syntax/ALL.nanorc
 !/.nano/syntax/awk.nanorc
 !/.nano/syntax/c.nanorc
